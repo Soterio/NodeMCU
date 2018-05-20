@@ -8,3 +8,6 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Para que o Sketch reconheça a placa...
 
+
+![alt text](https://raw.githubusercontent.com/prof-rafael/NodeMCU/master/imagem/image-1.jpg)
+
